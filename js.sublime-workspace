@@ -1,0 +1,875 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"actio",
+				"aqctionTrigger"
+			],
+			[
+				"align-",
+				"align-items\tproperty"
+			],
+			[
+				"obj",
+				"obj1"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"n",
+				"nbsp"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"SUV",
+				"suvenirbus"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"backgroun-",
+				"background-size"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"st",
+				"startBtn"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"line",
+				"linear"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"line-h",
+				"line-height"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"c",
+				"changeTast"
+			],
+			[
+				"ho",
+				"Holms-rage"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"col",
+				"colBlue"
+			],
+			[
+				"co",
+				"colBlue"
+			],
+			[
+				"fi",
+				"fields"
+			],
+			[
+				"f",
+				"field1"
+			],
+			[
+				"se",
+				"sendData"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"log",
+				"logoutButton"
+			],
+			[
+				"Fo",
+				"FormData"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"test",
+				"testAr"
+			],
+			[
+				"data",
+				"dataCart"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"conte",
+				"justify-content"
+			],
+			[
+				"cont",
+				"align-content"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"red",
+				"readyState"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"my",
+				"mysqli"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"br",
+				"brOfCart"
+			],
+			[
+				"ch",
+				"choiceOfCartridge"
+			],
+			[
+				"wi",
+				"max-width"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"db",
+				"db_password"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"Azbuka",
+				"Azbuka06.ttf"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Background-c",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text-in",
+				"text-indent"
+			],
+			[
+				"lette",
+				"letter-spacing"
+			],
+			[
+				"col-md",
+				"col-md-2"
+			],
+			[
+				"md-",
+				"col-md-1"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js1/index.html",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js1/script.js",
+			"settings":
+			{
+				"buffer_size": 1390,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/E/OpServ/OSPanel/domains/js/index.html",
+		"/E/OpServ/OSPanel/domains/js/style.css",
+		"/E/OpServ/OSPanel/domains/js/script.js",
+		"/D/web/gosha/template/css/styles.css",
+		"/D/web/gosha/template/index.html",
+		"/D/web/gosha/template/js/webfont.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/filters.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/my_filters_old.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/my_filters.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/mail.js",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/categories.scss",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/tv-snippet.php",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/paintings.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/t-shirts.html",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/cache/includes/elements/modsnippet/55.include.cache.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/.htaccess",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/mail.php",
+		"/E/OpServ/OSPanel/domains/gosha/index.html",
+		"/E/OpServ/OSPanel/domains/gosha/shop.html",
+		"/E/OpServ/OSPanel/domains/gosha/css/styles.css",
+		"/E/OpServ/OSPanel/domains/khust-merch/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/tag_manager2/js/web/filters.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/config/config.inc.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/test.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/mail_smtp.php",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/goods/picture-1.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/product-card.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/paintings.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/js/slider.js",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/goods.scss",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/photo.html",
+		"/E/OpServ/OSPanel/domains/imla/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/goods/t-shirt-1.html",
+		"/E/OpServ/backup/merch-modx/test/sendmessage.php",
+		"/E/OpServ/backup/merch-modx/test/script_new.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/css/default/style.css",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/select_option.tpl",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/index.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/cart.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/cart.scss",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/shopOrderForm.tpl",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/order-form-for-modx.html",
+		"/E/OpServ/backup/merch-modx/03-09-2019/suvenir_03-09-2019/config.core.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/ajaxform/action.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/shopCart.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/shopCartRow.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/js/lang/ru.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/js/shopkeeper.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/widgets/widget.shk_stat.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/script.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/product1.tpl",
+		"/E/OpServ/OSPanel/domains/khust-merch/www/index.html",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/shk_config.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/index.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/connector_fe.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/connector.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/model/shopkeeper3/shk_purchases.class.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/model/shopkeeper3/shk_order.class.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/model/shopkeeper3/shk_config.class.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/model/shopkeeper3/metadata.mysql.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/model/shopkeeper.class.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/processors/web/renderorderdata.class.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/templates/stats.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/templates/settings.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/templates/home.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/lexicon/ru/properties.inc.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/lexicon/ru/manager.inc.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/lexicon/ru/default.inc.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/lexicon/en/default.inc.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/snippets/form_to_session.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/snippets/include.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/snippets/getRequest.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/shopCart_small.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/snippets/shopkeeper.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/connector_fe_.php",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/hust-merch/stylesheet/style.css",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/hust-merch/template/common/menu.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/hust-merch/template/common/column_left.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/hust-merch/template/common/header.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/hust-merch/template/common/home.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/hust-merch/template/product/category.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/controller/common/menu.php",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/controller/common/home.php",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/default/template/product/category.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/controller/product/category.php",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/layout.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/img/fonts/roboto/roboto.css",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/default/template/product/product.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/default/template/common/maintenance.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/default/template/common/content_top.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/view/theme/default/template/common/column_right.twig",
+		"/E/OpServ/OSPanel/domains/opencart/catalog/model/localisation/currency.php",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/img/fonts/montserrat/montserrat.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/www/img/fonts/montserrat/montserrat.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/gulpfile.js",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/montserrat/montserrat.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/montserrat/montserrat.css",
+		"/E/OpServ/OSPanel/domains/khust-modx/assets/www/js/script.js",
+		"/E/OpServ/OSPanel/domains/khust/source/css/poster.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/html/poster.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/people.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/html/people/people-1.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/people.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/index.html",
+		"/E/OpServ/OSPanel/domains/khust-modx/assets/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/khust/source/html/posters/poster-1.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/help.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/help.scss",
+		"/E/OpServ/OSPanel/domains/khust-modx/core/config/config.inc.php",
+		"/E/OpServ/OSPanel/domains/khust-modx/phpinfo.php",
+		"/H/BackUp/khust-modx/khust-modx_29-07-2019.7z",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-1.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-2.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-3.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-4.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/streets.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/miskrada.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/news.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/css/miskrada.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/html/weather.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/layout.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/js/script.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aqctionTrigger",
+			"'';",
+			"Fotolia",
+			"alert",
+			"display",
+			"$header",
+			"suvenirr",
+			"hide",
+			"big-image",
+			".filter",
+			"langTxt",
+			"в корзину",
+			"товар добавлен в ",
+			"товар",
+			"hide",
+			"товар",
+			"$propSet",
+			"list-group",
+			"\"list-group\"",
+			"list-gr",
+			"bannet",
+			"header",
+			"news-date",
+			"big-last",
+			"sdfsdfszdf",
+			"ky",
+			"home-",
+			"5em",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js1/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1390,
+								1390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "js.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

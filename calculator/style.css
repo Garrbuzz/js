@@ -1,0 +1,51 @@
+.cover{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #aac;
+}
+.calculator{
+	width: 18rem;
+	min-width: 18rem;
+	height: 20rem;
+	background: #ddd;
+	margin: 5rem 0;
+}
+.screen{
+	width: 90%;
+	height: 3rem;
+	background: #aaa;
+	margin: 1rem auto;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	
+}
+.screen p{
+	font-size: 2rem;
+	text-align: right;
+	margin: auto 0.5rem;
+	letter-spacing: 1px;
+}
+.keys{
+	width: 90%;
+	height: 14rem;
+	margin: 1rem auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.key{
+	width: 24%;
+	height: 19%;
+	background: #555;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #eee;
+	transition: color 0.3s linear;
+}
+.key:hover{
+	cursor: pointer;
+	color: #fff;
+}
