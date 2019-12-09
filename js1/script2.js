@@ -14,6 +14,52 @@ window.onload = function() {
     // console.log(multiple());
 
 
+    // document.querySelector('#send').onclick = function() {
+    //     let num = document.querySelector('#num').value;
+    //     if (blackJack(num)) {
+    //         alert('Yo are win! ');
+    //     } else {
+    //         alert('Try again, buddy. ');
+    //     }
+
+    //     function blackJack(num) {
+    //         let test = Math.floor(Math.random() * 10);
+    //         console.log('num: ' + num + ' test: ' + test);
+    //         console.log(typeof(num));
+    //         return test === +num;
+    //     }
+
+    // }
+
+    // console.log(num2arr(18));
+
+    // function num2arr(num) {
+    //     let arr = [];
+    //     for (let i = 0; i < num; i++) {
+    //         arr[i] = i + 1;
+    //     }
+    //     return arr;
+    // }
+
+    // console.log(doubleArray([5, 7, 8, 5, 4]));
+
+    // // function doubleArray(arr) {
+    // //     let newArr = [];
+    // //     for (i = 0; i < arr.length; i++) {
+    // //         newArr[i] = arr[i];
+    // //         newArr[i + arr.length] = arr[i];
+    // //     }
+    // //     return newArr;
+    // // }
+
+    // function doubleArray(arr) {
+    //     let newArr = [];
+    //     return newArr.concat(arr, arr);
+    // }
+
+
+
+
     // function reverseString(str) {
 
     //     let newStr = '';
@@ -198,23 +244,71 @@ window.onload = function() {
     // console.log(price1.getPriceWithDiscount());
 
     // const obj = {
- //     height: 0,
- //     heigtInc() {
- //         return ++this.height;
- //     },
- //     heigtDec() {
- //         return --this.height;
- //     }
- // }
- // console.log(obj);
- // obj.height = 100;
- // console.log(obj.heigtInc());
- // console.log(obj.heigtInc());
- // console.log(obj.heigtInc());
- // console.log(obj.heigtInc());
- // console.log(obj.heigtDec());
- // console.log(obj.heigtDec());
- // console.log(obj.heigtDec());
+    //     height: 0,
+    //     heigtInc() {
+    //         return ++this.height;
+    //     },
+    //     heigtDec() {
+    //         return --this.height;
+    //     }
+    // }
+    // console.log(obj);
+    // obj.height = 100;
+    // console.log(obj.heigtInc());
+    // console.log(obj.heigtInc());
+    // console.log(obj.heigtInc());
+    // console.log(obj.heigtInc());
+    // console.log(obj.heigtDec());
+    // console.log(obj.heigtDec());
+    // console.log(obj.heigtDec());
 
     // ДЗ контекст end
+
+
+    // ДЗ arrow functions
+    // function sum(...arg) {
+    //     const params = Array.prototype.slice.call(arg);
+
+    //     if (!params.length) return 0;
+
+    //     return params.reduce(function(prev, next) { return prev + next; });
+    // }
+
+    // const sum = (...arg) => {
+    //     const params = Array.prototype.slice.call(arg);
+    //     if (!params.length) return 0;
+    //     return params.reduce((prev, next) => { return prev + next; });
+    // }
+    // console.log(sum(0));
+
+
+    // ДЗ arrow functions end
+
+
+    // ДЗ переб. методи масивів
+
+    // let arr = [1, 2, 3, 5, 8, 9, 10];
+    // let newArr = arr.map(x => {
+    //     let prop = {};
+    //     prop.odd = (!(x % 2)) ? true : false;
+    //     prop.digit = x;
+    //     return prop;
+
+    // });
+    // console.log(arr);
+    // console.log(newArr);
+
+    // let arr = [12, 4, 50, 1, 0, 18, 40];
+    // console.log(arr.some(x => x === 0));
+    // console.log(['yes', 'hello', 'no', 'easycode', 'what'].some(x => x.length > 3));
+    // ДЗ переб. методи масивів end
+
+    let arr = [{ char: "a", index: 12 }, { char: "w", index: 8 }, { char: "Y", index: 10 }, { char: "p", index: 3 }, { char: "p", index: 2 },
+        { char: "N", index: 6 }, { char: " ", index: 5 }, { char: "y", index: 4 }, { char: "r", index: 13 }, { char: "H", index: 0 },
+        { char: "e", index: 11 }, { char: "a", index: 1 }, { char: " ", index: 9 }, { char: "!", index: 14 }, { char: "e", index: 7 }
+    ];
+
+    function charsToPhrase(arr) {
+
+    }
 }
