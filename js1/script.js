@@ -1,17 +1,17 @@
 window.onload = function() {
-    // let str = "i am in the easycode";
-    // let strWords = str.split(' ');
-    // let newStrWords = [];
-    // let newStr = '';
-    // for (var i = 0; i < strWords.length; i++) {
-    //     newStrWords[i] = strWords[i][0].toUpperCase();
-    //     for (let j = 1; j < strWords[i].length; j++) {
-    //         newStrWords[i] += strWords[i][j];
-    //     }
-    // }
-    // newStr = newStrWords.join(' ');
-    // console.log(str);
-    // console.log(newStr);
+    let str = "i am in the easycode";
+let strWords = str.split(' ');
+let newStrWords = [];
+let newStr = '';
+for (var i = 0; i < strWords.length; i++) {
+    newStrWords[i] = strWords[i][0].toUpperCase();
+    for (let j = 1; j < strWords[i].length; j++) {
+        newStrWords[i] += strWords[i][j];
+    }
+}
+newStr = newStrWords.join(' ');
+console.log(str);
+console.log(newStr);
 
 
     // let str = 'tseb eht ma i';

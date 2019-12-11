@@ -15,21 +15,22 @@ window.onload = function() {
 
 
     // document.querySelector('#send').onclick = function() {
-    //     let num = document.querySelector('#num').value;
-    //     if (blackJack(num)) {
-    //         alert('Yo are win! ');
-    //     } else {
-    //         alert('Try again, buddy. ');
-    //     }
+    //    let num = document.querySelector('#num').value;
+    //    if (blackJack(num)) {
+    //        alert('Yo are win! ');
+    //    } else {
+    //        alert('Try again, buddy. ');
+    //    }
+    // blackJack(8);
 
-    //     function blackJack(num) {
-    //         let test = Math.floor(Math.random() * 10);
-    //         console.log('num: ' + num + ' test: ' + test);
-    //         console.log(typeof(num));
-    //         return test === +num;
-    //     }
-
+    // function blackJack(num) {
+    //     let test = Math.ceil(Math.random() * 10);
+    //     console.log('num: ' + num + ' test: ' + test);
+    //     console.log(typeof(num));
+    //     return test === +num;
     // }
+
+
 
     // console.log(num2arr(18));
 
@@ -105,29 +106,29 @@ window.onload = function() {
 
     // ]
 
-    // let res = funcGetUsers(users, "age", "29")
-    // console.log(res);
+    let res = funcGetUsers(users, "age", "29")
+    console.log(res);
 
-    // function funcGetUsers(users, field, value) {
-    //     let newArr = [];
-    //     let i = 0;
-    //     if (Array.isArray(users) && field && value) {
-    //         let elStr = '';
+    function funcGetUsers(users, field, value) {
+        let newArr = [];
+        let i = 0;
+        if (Array.isArray(users) && field && value) {
+            let elStr = '';
 
-    //         for (el of users) {
+            for (el of users) {
 
-    //             // elStr = String(el[field]);
+                // elStr = String(el[field]);
 
-    //             if (String(el[field]).toLowerCase() === value.toLowerCase()) {
-    //                 newArr[i] = el;
-    //             }
-    //         }
-    //     };
-    //     if (newArr.length > 0) {
-    //         return newArr;
-    //     } else return 'Співпадінь нема.';
+                if (String(el[field]).toLowerCase() === value.toLowerCase()) {
+                    newArr[i] = el;
+                }
+            }
+        };
+        if (newArr.length > 0) {
+            return newArr;
+        } else return 'Співпадінь нема.';
 
-    // }
+    }
     // ДЗ фунции конец    
 
 
@@ -301,14 +302,121 @@ window.onload = function() {
     // let arr = [12, 4, 50, 1, 0, 18, 40];
     // console.log(arr.some(x => x === 0));
     // console.log(['yes', 'hello', 'no', 'easycode', 'what'].some(x => x.length > 3));
+
+
+    // let arr = [{ char: "a", index: 12 }, { char: "w", index: 8 }, { char: "Y", index: 10 }, { char: "p", index: 3 }, { char: "p", index: 2 },
+    //     { char: "N", index: 6 }, { char: " ", index: 5 }, { char: "y", index: 4 }, { char: "r", index: 13 }, { char: "H", index: 0 },
+    //     { char: "e", index: 11 }, { char: "a", index: 1 }, { char: " ", index: 9 }, { char: "!", index: 14 }, { char: "e", index: 7 }
+    // ];
+
+    // function charsToPhrase(arr) {
+    //     return arr.sort((a, b) => a.index - b.index).map(x => x.char).join('');
+    // }
+    // console.log(charsToPhrase(arr));
+
+    // let arr = [
+    //     [14, 45],
+    //     [1],
+    //     ['a', 'c', 'd']
+    // ];
+    // console.log(arr.sort((a, b) => a.length - b.length));
+
+
+    // console.log([
+    //     { cpu: 'intel', info: { cores: 2, сache: 3 } },
+    //     { cpu: 'intel', info: { cores: 4, сache: 4 } },
+    //     { cpu: 'amd', info: { cores: 1, сache: 1 } },
+    //     { cpu: 'intel', info: { cores: 3, сache: 2 } },
+    //     { cpu: 'amd', info: { cores: 4, сache: 2 } }
+    // ].sort((a, b) => a.info['cores'] - b.info['cores']));
+
+    // let products = [
+    //     { title: 'prod1', price: 5.2 }, { title: 'prod2', price: 0.18 },
+    //     { title: 'prod3', price: 15 }, { title: 'prod4', price: 25 },
+    //     { title: 'prod5', price: 18.9 }, { title: 'prod6', price: 8 },
+    //     { title: 'prod7', price: 19 }, { title: 'prod8', price: 63 }
+    // ];
+    // let filterCollection = function(products, priceMin, priceMax) {
+    //     return products.filter(x => x.price > priceMin && x.price < priceMax).sort((a, b) => a.price - b.price);
+    // }
+    // console.log(filterCollection(products, 15, 30));
+
     // ДЗ переб. методи масивів end
 
-    let arr = [{ char: "a", index: 12 }, { char: "w", index: 8 }, { char: "Y", index: 10 }, { char: "p", index: 3 }, { char: "p", index: 2 },
-        { char: "N", index: 6 }, { char: " ", index: 5 }, { char: "y", index: 4 }, { char: "r", index: 13 }, { char: "H", index: 0 },
-        { char: "e", index: 11 }, { char: "a", index: 1 }, { char: " ", index: 9 }, { char: "!", index: 14 }, { char: "e", index: 7 }
-    ];
 
-    function charsToPhrase(arr) {
+    // ДЗ  closures 
 
-    }
+    // function minus(num1) {
+    //     return function(num2) {
+    //         return num1 - num2;
+    //     }
+    // }
+    // console.log(minus(5)(12));
+    // console.log(minus(5)(3));
+
+    // function multiplyMaker(num1) {
+    //     let res = num1;
+    //     return function(num2) {
+    //         res = res * num2;
+    //         return res;
+    //     }
+    // }
+    // const multiply = multiplyMaker(2);
+    // console.log(multiply(2)); // 4 (2 * 2)
+    // console.log(multiply(1)); // 4 (4 * 1)
+    // console.log(multiply(3)); // 12 (4 * 3)
+    // console.log(multiply(10)); // 120 (12 * 10)
+
+
+    // let modStr = {
+    //     str: '',
+    //     setStr: (newStr) => (!newStr) ? str = '' : str = String(newStr),
+    //     getStr: () => str,
+    //     getStrLength: () => str.length,
+    //     getStrReverce: () => str.split('').reverse().join('')
+    // }
+    // modStr.setStr('qwertyuiop');
+    // console.log(modStr.getStrReverce());
+
+
+    // let calc = function() {
+    //     let res = 0;
+    //     let set = (arg) => { res = arg; return this };
+    //     let sum = (arg) => { calc.res += arg; return this }
+    // }
+
+    // console.log(calc().set(20).sum(30).sum(50));
+
+
+
+    // ДЗ closures end
+
+    // ДЗ деструктуризація end
+
+    // function func(param1, ...others) {
+    //     return { first: param1, other: [...others] }
+    // }
+    // console.log(func(1, 2, 3, 4, 5, 6, 7))
+
+
+    // const organisation = {
+    //     name: 'Company 1',
+    //     employees: ['John', 'Stive', 'Anna', 'Mary'],
+    //     partners: ['partner 1', 'partner2', 'partner2', 'partner2']
+    // }
+
+    // function getInfo(org) {
+    //     let { name, partners: [partner1, partner2] } = org;
+    //     name ? console.log(name) : console.log('Unnown');
+    //     console.log('Name: ' + name);
+    //     console.log('Partners: ' + partner1 + ' ' + partner2);
+    // }
+    // getInfo(organisation);
+
+
+    // ДЗ деструктуризація end
+
+
+
+
 }

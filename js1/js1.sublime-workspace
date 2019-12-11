@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"pr",
+				"products"
+			],
+			[
+				"h",
+				"heigtInc"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"is",
+				"isArray"
+			],
+			[
 				"l",
 				"log"
 			],
@@ -126,10 +146,6 @@
 			[
 				"border-co",
 				"border-color"
-			],
-			[
-				"h",
-				"height"
 			],
 			[
 				"z-",
@@ -286,10 +302,6 @@
 			[
 				"a",
 				"array"
-			],
-			[
-				"pr",
-				"print_r"
 			],
 			[
 				"pad",
@@ -493,13 +505,10 @@
 			}
 		},
 		{
-			"contents": "window.onload = function() {\n    // ДЗ фунции   \n    // function multiple(...args) {\n    //     if (args.length === 0) {\n    //         return 0;\n    //     }\n    //     let res = 1;\n    //     for (el of args) {\n    //         res = res * el;\n    //     }\n    //     return (res);\n    // }\n\n    // console.log(multiple());\n\n\n    // function reverseString(str) {\n\n    //     let newStr = '';\n    //     for (let i = str.length - 1; i >= 0; i--) {\n    //         newStr += str[i];\n\n    //     }\n    //     return newStr;\n    // }\n    // console.log('res : ' + reverseString('asdfghj'));\n\n\n    // function getCodeStringFromText(str) {\n    //     let newStr = '';\n    //     for (let i = 0; i < str.length; i++) {\n    //         newStr += (str.charCodeAt(i) + ' ');\n    //     }\n    //     return newStr.trim();\n    // }\n    // console.log(getCodeStringFromText('qwerty'));\n\n    // let users = [{\n    //         name: \"John\",\n    //         age: \"19\",\n    //         gender: \"male\"\n\n    //     },\n    //     {\n    //         name: \"sarah\",\n    //         age: \"28\",\n    //         gender: \"famale\"\n    //     },\n    //     {\n    //         nick: \"pig\",\n    //         age: \"28\",\n    //         name: \"Paul\"\n    //     },\n    //     {\n    //         color: \"yellow\",\n    //         height: \"0.8 m\",\n    //         length: \"3m\"\n    //     }\n\n    // ]\n\n    // let res = funcGetUsers(users, \"age\", \"29\")\n    // console.log(res);\n\n    // function funcGetUsers(users, field, value) {\n    //     let newArr = [];\n    //     let i = 0;\n    //     if (Array.isArray(users) && field && value) {\n    //         let elStr = '';\n\n    //         for (el of users) {\n\n    //             // elStr = String(el[field]);\n\n    //             if (String(el[field]).toLowerCase() === value.toLowerCase()) {\n    //                 newArr[i] = el;\n    //             }\n    //         }\n    //     };\n    //     if (newArr.length > 0) {\n    //         return newArr;\n    //     } else return 'Співпадінь нема.';\n\n    // }\n    // ДЗ фунции конец    \n\n\n    // ДЗ фунции вьісшего порядка\n    // newValue(['my', 'name', 'is', 'Trinity'], words2phrase);\n    // newValue([10, 20, 30, 12], multToTen);\n    // newValue([{ age: 45, name: 'Jhon' }, { age: 20, name: 'Aaron' }], ageOfEsers);\n    // newValue(['abc', '123'], reverceString);\n\n    // function newValue(arr, func) {\n    //     console.log('New value: ' + func(arr));\n    // }\n\n    // function multToTen(arr) {\n    //     newArr = [];\n    //     newStr = '';\n    //     for (let i = 0; i < arr.length; i++) {\n    //         newArr[i] = arr[i] * 10;\n    //     }\n    //     return newArr.join(', ');\n    // }\n\n    // function ageOfEsers(arr) {\n    //     newArr = [];\n    //     newStr = '';\n    //     for (let i = 0; i < arr.length; i++) {\n    //         newArr[i] = arr[i].name + ' is ' + String(arr[i].age);\n    //     }\n    //     return newArr.join(', ');\n    // };\n\n    // function reverceString(arr) {\n    //     let newArr = [];\n\n    //     for (let j = 0; j < arr.length; j++) {\n    //         newArr[j] = '';\n    //         for (let i = 0; i < arr[j].length; i++) {\n    //             newArr[j] += arr[j][arr[j].length - i - 1];\n\n\n    //         }\n    //     }\n    //     return newArr.join(', ');\n    // }\n\n    // function words2phrase(arr) {\n    //     let phrase = '';\n    //     let elTemp = '';\n    //     for (el of arr) {\n    //         elTemp = el[0].toUpperCase();\n    //         for (let i = 1; i < el.length; i++) {\n    //             elTemp += el[i];\n    //         }\n    //         phrase += elTemp;\n    //     }\n    //     return phrase;\n    // }\n\n        \n\n\n\n\n\n    // ДЗ фунции вьісшего порядка конец   \n\n\n    // ДЗ контекст \n    // const rectangle = {\n    //     width: 10,\n    //     height: 5,\n    //     getSquare() {\n    //         return this.width * this.height;\n    //     }\n    // }\n\n    // let rect1 = rectangle;\n    // rect1.width = 30;\n    // rect1.height = 20;\n    // console.log(rect1.getSquare());\n\n\n    // const price = {\n    //     price: 100,\n    //     discount: '15%',\n    //     getPrice() {\n    //         return this.ptice;\n    //     },\n    //     getPriceWithDiscount() {\n    //         return this.price * (100 - this.discount.slice(0, this.discount.length - 1)) / 100;\n    //     }\n    // }\n    // let price1 = price;\n    // console.log(price1.getPriceWithDiscount());\n\n\n\n\n\n    // ДЗ контекст end\n}",
 			"file": "script2.js",
-			"file_size": 4679,
-			"file_write_time": 132199627925071543,
 			"settings":
 			{
-				"buffer_size": 4373,
+				"buffer_size": 10530,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -550,8 +559,8 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/E/OpServ/OSPanel/domains/js/js1/script2.js",
+		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
 		"/E/OpServ/OSPanel/domains/js/index.html",
 		"/E/OpServ/OSPanel/domains/js/style.css",
@@ -695,6 +704,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			")\n",
 			"aqctionTrigger",
 			"'';",
 			"Fotolia",
@@ -780,15 +790,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4373,
+						"buffer_size": 10530,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3603,
-								3603
+								10454,
+								10454
 							]
 						],
 						"settings":
@@ -798,7 +808,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1959.0,
+						"translation.y": 6426.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
