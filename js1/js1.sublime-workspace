@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"param1"
+			],
+			[
 				"pr",
 				"products"
 			],
@@ -484,10 +488,6 @@
 				"foreach\tforeach …"
 			],
 			[
-				"p",
-				"php\t<?php … ?>"
-			],
-			[
 				"te",
 				"textarea\tTag"
 			]
@@ -508,7 +508,7 @@
 			"file": "script2.js",
 			"settings":
 			{
-				"buffer_size": 10530,
+				"buffer_size": 11204,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -559,6 +559,7 @@
 	},
 	"file_history":
 	[
+		"/E/OpServ/OSPanel/domains/js/js1/script.js",
 		"/E/OpServ/OSPanel/domains/js/js1/script2.js",
 		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
@@ -685,8 +686,7 @@
 		"/E/OpServ/OSPanel/domains/khust/source/html/miskrada.html",
 		"/E/OpServ/OSPanel/domains/khust/source/css/news.scss",
 		"/E/OpServ/OSPanel/domains/khust/source/css/miskrada.scss",
-		"/E/OpServ/OSPanel/domains/khust/source/html/weather.html",
-		"/E/OpServ/OSPanel/domains/khust/source/css/layout.scss"
+		"/E/OpServ/OSPanel/domains/khust/source/html/weather.html"
 	],
 	"find":
 	{
@@ -790,15 +790,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10530,
+						"buffer_size": 11204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10454,
-								10454
+								4523,
+								3109
 							]
 						],
 						"settings":
@@ -808,7 +808,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6426.0,
+						"translation.y": 3636.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

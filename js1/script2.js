@@ -105,43 +105,41 @@ window.onload = function() {
     //     }
 
     // ]
+// let res = funcGetUsers(users, "age", "29")
+// console.log(res);
 
-    let res = funcGetUsers(users, "age", "29")
-    console.log(res);
+// function funcGetUsers(users, field, value) {
+//     let newArr = [];
+//     let i = 0;
+//     if (Array.isArray(users) && field && value) {
+//         let elStr = '';
 
-    function funcGetUsers(users, field, value) {
-        let newArr = [];
-        let i = 0;
-        if (Array.isArray(users) && field && value) {
-            let elStr = '';
+//         for (el of users) {
 
-            for (el of users) {
+//             // elStr = String(el[field]);
 
-                // elStr = String(el[field]);
+//             if (String(el[field]).toLowerCase() === value.toLowerCase()) {
+//                 newArr[i] = el;
+//             }
+//         }
+//     };
+//     if (newArr.length > 0) {
+//         return newArr;
+//     } else return 'Співпадінь нема.';
 
-                if (String(el[field]).toLowerCase() === value.toLowerCase()) {
-                    newArr[i] = el;
-                }
-            }
-        };
-        if (newArr.length > 0) {
-            return newArr;
-        } else return 'Співпадінь нема.';
-
-    }
+// }
     // ДЗ фунции конец    
 
 
-    // ДЗ фунции вьісшего порядка
-    // newValue(['my', 'name', 'is', 'Trinity'], words2phrase);
-    // newValue([10, 20, 30, 12], multToTen);
-    // newValue([{ age: 45, name: 'Jhon' }, { age: 20, name: 'Aaron' }], ageOfEsers);
-    // newValue(['abc', '123'], reverceString);
+//     ДЗ фунции вьісшего порядка
+    //     newValue(['my', 'name', 'is', 'Trinity'], words2phrase);
+    //     newValue([10, 20, 30, 12], multToTen);
+    //     newValue([{ age: 45, name: 'Jhon' }, { age: 20, name: 'Aaron' }], ageOfEsers);
+    //     newValue(['abc', '123'], reverceString);
 
-    // function newValue(arr, func) {
-    //     console.log('New value: ' + func(arr));
-    // }
-
+    //     function newValue(arr, func) {
+    //         console.log('New value: ' + func(arr));
+    //     }
     // function multToTen(arr) {
     //     newArr = [];
     //     newStr = '';
@@ -186,7 +184,6 @@ window.onload = function() {
     //     }
     //     return phrase;
     // }
-
 
 
 
