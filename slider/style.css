@@ -1,7 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+
+
+}
+
+input {
+    outline: none;
+}
+
+.slider {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.gallery-cover {
+    position: relative;
+}
+
+.gallery {
+    width: 350px;
+    overflow: hidden;
+}
+
+.arrow {
+    position: absolute;
+    top: 15rem;
+}
+
+.arrow:hover {
+    cursor: pointer;
+}
+
+.arrow-prev {
+    left: -5rem;
+}
+
+.arrow-next {
+    right: -5rem;
+}
+
+.gallery img {
+    width: 350px;
+}
+
 ul {
     list-style-type: none;
+    display: flex;
+    /*    width: 9999px;*/
+    margin: 5rem 0;
+    transition: transform 0.3s ease;
 }
 
 ul li {
-    display: inline-block;
+    /*display: inline-block;*/
+    padding: 0;
+    margin: 0;
+}
+
+ul li div {
+    width: 532px;
+    height: 799px;
+}
+
+.hide {
+    display: none;
 }

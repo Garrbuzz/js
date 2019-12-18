@@ -4,32 +4,16 @@
 		"selected_items":
 		[
 			[
-				"actio",
-				"aqctionTrigger"
+				"c",
+				"contains"
 			],
 			[
-				"align-",
-				"align-items\tproperty"
+				"wid",
+				"width\tproperty"
 			],
 			[
-				"obj",
-				"obj1"
-			],
-			[
-				"q",
-				"querySelector"
-			],
-			[
-				"t",
-				"this"
-			],
-			[
-				"l",
-				"log"
-			],
-			[
-				"le",
-				"length"
+				"wi",
+				"width\tproperty"
 			],
 			[
 				"n",
@@ -50,6 +34,10 @@
 			[
 				"font",
 				"font-size"
+			],
+			[
+				"q",
+				"querySelector"
 			],
 			[
 				"mar",
@@ -174,10 +162,6 @@
 			[
 				"inli",
 				"inline-block"
-			],
-			[
-				"c",
-				"changeTast"
 			],
 			[
 				"ho",
@@ -312,10 +296,6 @@
 				"onClick"
 			],
 			[
-				"wid",
-				"width"
-			],
-			[
 				"shad",
 				"box-shadow"
 			],
@@ -334,6 +314,10 @@
 			[
 				"z",
 				"z-index"
+			],
+			[
+				"l",
+				"log"
 			],
 			[
 				"g",
@@ -362,10 +346,6 @@
 			[
 				"ch",
 				"choiceOfCartridge"
-			],
-			[
-				"wi",
-				"max-width"
 			],
 			[
 				"pri",
@@ -472,19 +452,31 @@
 	"buffers":
 	[
 		{
-			"file": "js1/index.html",
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <link rel=\"stylesheet\" href=\"style.css\">\n    <title>Document</title>\n</head>\n\n<body>\n    <div class=\"slider\">\n        <div class=\"gallery-cover\">\n            <button class=\"arrow arrow-prev\" data-direction=\"prev\">⇦</button>\n            <button class=\"arrow arrow-next\" data-direction=\"next\">⇨</button>\n            <div class=\"gallery\">\n                <ul>\n                    <li><img src=\"col-1-001.jpg\" alt=\"\"></li>\n                    <li><img src=\"col-1-002.jpg\" alt=\"\"></li>\n                    <li><img src=\"col-1-003.jpg\" alt=\"\"></li>\n                    <li><img src=\"col-1-004.jpg\" alt=\"\"></li>\n                    <li><img src=\"col-1-005.jpg\" alt=\"\"></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</body>\n<script src=\"script.js\"></script>\n\n</html>",
+			"file": "index.html",
+			"file_size": 888,
+			"file_write_time": 132211466545711944,
 			"settings":
 			{
-				"buffer_size": 166,
+				"buffer_size": 856,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "js1/script.js",
+			"file": "script.js",
 			"settings":
 			{
-				"buffer_size": 1390,
+				"buffer_size": 2057,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 733,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -498,20 +490,16 @@
 	"command_palette":
 	{
 		"height": 150.0,
-		"last_filter": "",
+		"last_filter": "livereload",
 		"selected_items":
 		[
 			[
-				"Package Control: ",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"livereload",
 				"Snippet: Insert livereload.js script"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
 			]
 		],
 		"width": 400.0
@@ -535,25 +523,31 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/C/Users/Buzz/AppData/Roaming/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
-		"/E/OpServ/OSPanel/domains/js/index.html",
-		"/E/OpServ/OSPanel/domains/js/style.css",
-		"/E/OpServ/OSPanel/domains/js/script.js",
-		"/D/web/gosha/template/css/styles.css",
-		"/D/web/gosha/template/index.html",
-		"/D/web/gosha/template/js/webfont.js",
+		"/E/OpServ/OSPanel/domains/gosha/assets/web/css/styles.css",
+		"/E/OpServ/OSPanel/domains/gosha/template/collection.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/css/styles.css",
+		"/E/OpServ/OSPanel/domains/gosha/template/index.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/about.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/terms-of-use.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/product.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/privacy-policy.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/contact.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/blog.html",
+		"/E/OpServ/OSPanel/domains/gosha/template/blog-post.html",
+		"/G/Мій диск/work_gdrive_oleg/web/merch-modx/13-10-2019/my_filters_old.js",
+		"/G/Мій диск/work_gdrive_oleg/web/merch-modx/13-10-2019/my_filters.js",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/php/filters.php",
-		"/E/OpServ/OSPanel/domains/merch-modx/www/css/style.css",
-		"/E/OpServ/OSPanel/domains/merch-modx/www/js/my_filters_old.js",
+		"/G/Мій диск/work_gdrive_oleg/web/Gosha/gosha_template2019-10-11/gosha_template/index.html",
+		"/C/1С кофейный рай/MergeSettingsУправлениеНебольшойФирмойДляУкраины1.6.5.2-1.6.6.3.xml",
+		"/E/OpServ/OSPanel/domains/gosha/en/index.php",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/js/my_filters.js",
-		"/E/OpServ/OSPanel/domains/merch-modx/www/js/mail.js",
 		"/E/OpServ/OSPanel/domains/khust-merch/source/css/categories.scss",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/php/tv-snippet.php",
 		"/E/OpServ/OSPanel/domains/khust-merch/source/html/paintings.html",
 		"/E/OpServ/OSPanel/domains/khust-merch/source/html/t-shirts.html",
 		"/E/OpServ/OSPanel/domains/merch-modx/core/cache/includes/elements/modsnippet/55.include.cache.php",
 		"/E/OpServ/OSPanel/domains/merch-modx/.htaccess",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/mail.js",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/php/mail.php",
 		"/E/OpServ/OSPanel/domains/gosha/index.html",
 		"/E/OpServ/OSPanel/domains/gosha/shop.html",
@@ -562,6 +556,7 @@
 		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/tag_manager2/js/web/filters.js",
 		"/E/OpServ/OSPanel/domains/merch-modx/core/config/config.inc.php",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/php/test.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/css/style.css",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/php/mail_smtp.php",
 		"/E/OpServ/OSPanel/domains/khust-merch/source/html/goods/picture-1.html",
 		"/E/OpServ/OSPanel/domains/khust-merch/source/css/product-card.scss",
@@ -655,18 +650,11 @@
 		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-2.html",
 		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-3.html",
 		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-4.html",
-		"/E/OpServ/OSPanel/domains/khust/source/html/streets.html",
-		"/E/OpServ/OSPanel/domains/khust/source/html/news.html",
-		"/E/OpServ/OSPanel/domains/khust/source/html/miskrada.html",
-		"/E/OpServ/OSPanel/domains/khust/source/css/news.scss",
-		"/E/OpServ/OSPanel/domains/khust/source/css/miskrada.scss",
-		"/E/OpServ/OSPanel/domains/khust/source/html/weather.html",
-		"/E/OpServ/OSPanel/domains/khust/source/css/layout.scss",
-		"/E/OpServ/OSPanel/domains/khust/source/js/script.js"
+		"/E/OpServ/OSPanel/domains/khust/source/html/streets.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -680,35 +668,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"aqctionTrigger",
-			"'';",
-			"Fotolia",
-			"alert",
-			"display",
-			"$header",
-			"suvenirr",
-			"hide",
-			"big-image",
-			".filter",
-			"langTxt",
-			"в корзину",
-			"товар добавлен в ",
-			"товар",
-			"hide",
-			"товар",
-			"$propSet",
-			"list-group",
-			"\"list-group\"",
-			"list-gr",
-			"bannet",
-			"header",
-			"news-date",
-			"big-last",
-			"sdfsdfszdf",
-			"ky",
-			"home-",
-			"5em",
-			"@"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -716,7 +675,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -732,28 +690,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "js1/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 166,
+						"buffer_size": 856,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								128,
-								128
+								463,
+								476
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 128.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -761,19 +720,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "js1/script.js",
+					"file": "script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1390,
+						"buffer_size": 2057,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1390,
-								1390
+								2013,
+								2013
 							]
 						],
 						"settings":
@@ -785,6 +744,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -826,7 +813,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "js.sublime-project",
+	"project": "slider.sublime-project",
 	"replace":
 	{
 		"height": 50.0
